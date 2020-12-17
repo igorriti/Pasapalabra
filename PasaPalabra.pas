@@ -1,7 +1,6 @@
 program Pasapalabras;
 {Este programa se trata de una implementacion operacional del juego Pasapalabra, en el mismo el usuario
 tiene 6 opciones que le permiten realizar ciertas acciones como por ejemplo ver la lista de los jugadores,agregar un jugador,jugar,entre otras...}
-
 uses crt;
 
 const
